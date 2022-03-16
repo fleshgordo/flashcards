@@ -11,3 +11,8 @@ Creates flashcards or any other card deck with front and backside for double-sid
 - Adapt scribus file if needed
 - Print odd pages (1,3,5, etc.) first
 - Flip the stack in the printer and print even pages (2,4,6, etc.) 
+
+# Requirements
+
+- [Scribus](https://www.scribus.net/)
+- Paper and patience
